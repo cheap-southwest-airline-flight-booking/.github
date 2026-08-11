@@ -7,7 +7,10 @@
     <meta name="description" content="Call (844) 210-0930 to book Southwest airline flight cheap tickets now. Score cheap southwest ticket deals and discounted ticket offers on every book southwest airline flight. Book southwest flight with call only deals and grab southwest cheap tickets today — exclusive unlisted fares available by phone only.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://dealsouthwest.com/">
-    <style>
+    
+</head>
+<body>
+<style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
         body {
@@ -289,9 +292,6 @@
             .bottom-cta { padding-bottom: 100px; }
         }
     </style>
-</head>
-<body>
-
 <!-- ═══ HERO ═══ -->
 <header class="hero">
     <div class="container">
